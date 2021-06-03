@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quakers no Christians:, or, A sober request to the Quakers, published by Jer. Ives.</title>
+            <author>Ives, Jeremiah, fl. 1653-1674.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09307</idno><idno type="EEBO-CITATION">64551326</idno>
+  <idno type="VID">184614</idno>
+  <idno type="EEBO-PROQUEST">2248530848</idno>
+  
+            <idno type="STC">Wing I1102A</idno>
+            <idno type="STC">ESTC R224414</idno>
+            <idno type="OCLC">64551326</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09307)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184614)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2868:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Quakers no Christians:, or, A sober request to the Quakers, published by Jer. Ives.</title>
+                  <author>Ives, Jeremiah, fl. 1653-1674.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Smith at the Elephant and Castle in Cornhil near the Royal Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  England --  Controversial literature --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:184614:1"/>
+            <head>QUAKERS NO CHRISTIANS: OR, A Sober Request to the Quakers, Published by JER. IVES.</head>
+            <p>WHereas I have lately charged you in a publick Meeting, that you are <hi>no Christians,</hi> and that your Friends of the Ministry are meer <hi>Impostors;</hi> which Charge you have endeavoured to evade with various put-offs, Alleaging that it was besides the Business of the day; which is manifestly false: for, was it not the Business of the day to examine the Charge against <hi>Tho. Hicks?</hi> And was not this the first Article in your written Charge against him, that he writ a Dialogue between a <hi>Quaker</hi> and a <hi>Christian?</hi> Now this being the first general Article, what could be more material in order to his Vindication than for him to prove (or some one in his behalf, and the behalf of Chri<g ref="char:EOLhyphen"/>stianity it self) that you are no Christians, nor worthy to bear so venerable a name? and if this be made manifest it can be no fault to oppose a <hi>Quaker</hi> to a <hi>Christian.</hi>
+            </p>
+            <p>But when I still inforced this Charge, and by several motives pressed you to vindicate the honour of your Profession, by responding to what I had objected against you. <hi>Wil. Pen</hi> stands up and makes a Confession of his Faith in Scripture expressions, which while you declaredly own such Books (written by <hi>Quakers</hi>) as contain in them Doctrines no way reconcilable to Scipture-Language, or Christian-Religion, but are destructive both of the one and the other, as I am ready to prove, it plainly shews that this Confession was but a meer Equivoca<g ref="char:EOLhyphen"/>tion (an old art of Deceivers; who <hi>by good words and fair speeches</hi> do the more effectually <hi>beguile the hearts of the Simple</hi> and less wary Hearers) for, what if your Discourses and Confessions of Faith be cloathed with Scripture-Language <hi>now</hi> more than formerly, this doth but render those Confessions to be gross Equivocations, unless you will renounce your former vile, absurd, and nonsensical Opinions, which I proved to your Face do make void all rules of Christian Faith and Practice. And when by force of Argument I had driven you to that strait that you could make no reply, and finding my self under some indisposition of body after nigh six hours discourse with three of you, I thought it advisable to quit the Meeting; which you making so ill an improvement of, for want of better Arguments <hi>Will. Pen</hi> crying out (as if he had been among the Boys in <hi>Moor-fields</hi>) <hi>They run, they run;</hi> others of you report as if I ran from the Charge, as being afraid or asham'd to own it: I say, your so base and insolent behaviour in my absence, who had nothing to the purpose to answer in my pre<g ref="char:EOLhyphen"/>sence, gives me the occasion to let you know, that I am neither affraid nor ashamed to make full proof of what I have charged upon you, if you <hi>dare</hi> appoint a Time and Place for that purpose. And then appoint whom you will to Dispute the matter with me; provided none be admitted to speak but us two, unless it be to correct any disorders either in the Disputants or Auditors; as also that a certain hour be agreed on for the beginning, and another for the ending of the Disputation for that day; and that neither party shall ex<g ref="char:EOLhyphen"/>ceed the limites of that time so agreed on, unless it be by mutual consent.</p>
+            <p>Upon these terms I earnestly request a Meeting with you to prove these two things against you.</p>
+            <list>
+               <item>1. <hi>That you are no Christians,</hi> what ever you pretend.</item>
+               <item>2. <hi>That your Friends of the Ministry</hi> (as you phrase it) <hi>are Impostors, False-Prophets, and men of lying Spirits.</hi>
+               </item>
+            </list>
+            <p>Now if you shall not by all this be prevailed upon to meet according to this Request, I hope you will not take it unkindly if I conclude, that you that talk so much of the Light, care not how little you come at it, lest your folly should be made manifest; but if you take this for an unkind Conclusion, I hope this will please you <hi>(viz)</hi> that what ever you say of me, I shall pray that God would Convert you to <hi>Christianity;</hi> and Subscribe my self,</p>
+            <closer>
+               <signed>Your Friend, <hi>JER. IVES.</hi>
+               </signed>
+            </closer>
+            <closer/>
+            <postscript>
+               <head>POSTSCRIPT.</head>
+               <p>This Meeting is desired to be distinct, without respect unto any Meeting that shall be a greed on betwen <hi>Tho. Hicks,</hi> and you, touching the matters you have objected against him.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="license">
+                           <p>
+                              <hi>Published with Allowance.</hi>
+                           </p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>F. Smith</hi> at the Elephant and Castle in <hi>Cornhil</hi> near the Royal Exchange. 1674.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
